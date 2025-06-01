@@ -1,3 +1,4 @@
+![Screenshot 2025-06-01 091049](https://github.com/user-attachments/assets/01104e72-1620-4ac5-b306-aae5dfea7717)
 # DSA-TEMPLATE
 THANK YOU FOR CALL ME FOR HELP
 
@@ -15,3 +16,8 @@ Nigeria, Africa’s biggest economy, is the driving force behind the continent�
 Today, we take a look at Nigeria’s top fintechs, showcasing the country’s most impactful fintech companies, highlighting their value propositions, and delving into their recent milestones.
 
 1. For this list, we focus on private, independent fintech companies based in Nigeria, excluding the likes of Flutterwave, which is headquartered in the US, and Kuda Bank, based in London. We also exclude those that have been acquired or which are affiliated with major banks, telecom providers, or established entities, such as Paystack (acquired by PayPal in 2020), and MoMo Payment Service, a subsidiary of MTN Nigeria Communications. This approach aims to provide a clear view of Nigeria’s homegrown fintech trailblazers.
+
+
+
+
+
